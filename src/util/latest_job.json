@@ -1,0 +1,159 @@
+{
+
+  "data":
+  [
+    {
+      "job_id": "NDA Examination 2023",
+      "job_category_type": "filling application",
+      "job_main_category": ["trending","defence","central"],
+      "job_type": "defence",
+      "job_name": "NDA 2023 batch",
+      "job_description": "&#x2022\tJoin Indian Navy Are Released for Executive Sports & Law Branch Entry Recruitment Indian Navy Vacancies.\n •\tCandidate Can Apply Between 13/01/2023 to 28/01/2023.\n •\tCandidate Read the Notification Before Apply the Recruitment Application Form in Indian Navy Executive Sports & Law June 2023 Course Recruitment 2023..\n•\tKindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\n•\tKindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\nBefore Submit the Application Form Must Check the Preview and All Columns Carefully.\nNo Application Fees in Indian Navy Recruitment But. Candidate Must Final Submit the Form.\nTake A Print Out of Final Submitted Form",
+      "job_application_start_date": "21/12/2022",
+      "job_application_last_date": "12/01/2023 - 6:00pm",
+      "job_eligibility_by_education": ["For Air Force and Naval Wings - Passing Certification of Class 12th exam with Physics and Mathematics"],
+      "job_eligibility_by_gender": ["male","female"],
+      "job_eligibility_by_cast": ["Obc","Sc","Gen","St"],
+      "job_eligibility_by_age": {
+        "min": 16.5,
+        "max": 19.5
+      },
+      "job_eligibility_by_height": {
+        "min": 157 ,
+        "max": 163
+      },
+      "job_registration_link": "https://ndacivrect.gov.in/",
+      "job_notification_link": "https://www.upsc.gov.in/examinations/National%20Defence%20Academy%20and%20Naval%20Academy%20Examination%20%28I%29%2C%202023"
+
+
+    },
+    {
+      "job_id": "railway_Gr_D",
+      "job_category_type": "filling application",
+      "job_main_category": ["trending","defence","central"],
+      "job_type": "railway group D",
+      "job_name": "Railway Group D",
+      "job_description": "&#x2022\tJoin Indian Navy Are Released for Executive Sports & Law Branch Entry Recruitment Indian Navy Vacancies.\n •\tCandidate Can Apply Between 13/01/2023 to 28/01/2023.\n •\tCandidate Read the Notification Before Apply the Recruitment Application Form in Indian Navy Executive Sports & Law June 2023 Course Recruitment 2023..\n•\tKindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\n•\tKindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\nBefore Submit the Application Form Must Check the Preview and All Columns Carefully.\nNo Application Fees in Indian Navy Recruitment But. Candidate Must Final Submit the Form.\nTake A Print Out of Final Submitted Form",
+      "job_application_start_date": "19/01/2023",
+      "job_application_last_date": "19/01/2023",
+      "job_eligibility_by_education": ["10th + iti"],
+      "job_eligibility_by_gender": ["male","female"],
+      "job_eligibility_by_cast": ["obc","sc","gen"],
+      "job_eligibility_by_age": {
+        "min": 18,
+        "max": 33
+      },
+      "job_registration_link": "https://google.com",
+      "job_notification_link": "https://google.com"
+
+
+    },
+    {
+      "job_id": "central",
+      "job_category_type": "filling application",
+      "job_main_category": ["trending","defence","central"],
+      "job_type": "CRPF ASI",
+      "job_name": "SI/GD Ramjee",
+      "job_description": "&#x2022\tJoin Indian Navy Are Released for Executive Sports & Law Branch Entry Recruitment Indian Navy Vacancies.\n •\tCandidate Can Apply Between 13/01/2023 to 28/01/2023.\n •\tCandidate Read the Notification Before Apply the Recruitment Application Form in Indian Navy Executive Sports & Law June 2023 Course Recruitment 2023..\n•\tKindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\n•\tKindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\nBefore Submit the Application Form Must Check the Preview and All Columns Carefully.\nNo Application Fees in Indian Navy Recruitment But. Candidate Must Final Submit the Form.\nTake A Print Out of Final Submitted Form",
+      "job_application_start_date": "19/01/2023",
+      "job_application_last_date": "19/01/2023",
+      "job_eligibility_by_education": ["b.tech,b.e"],
+      "job_eligibility_by_gender": ["male","female"],
+      "job_eligibility_by_cast": ["obc","sc"],
+      "job_eligibility_by_age": {
+        "min": 18,
+        "max": 32
+      },
+      "job_registration_link": "https://google.com",
+      "job_notification_link": "https://google.com"
+
+
+    },
+    {
+      "job_id": "coastal navy",
+      "job_category_type": "filling application",
+      "job_main_category": ["trending","defence","central"],
+      "job_type": "coastal nay",
+      "job_name": "Coastal Navy Demo",
+      "job_description": "&#x2022\tJoin Indian Navy Are Released for Executive Sports & Law Branch Entry Recruitment Indian Navy Vacancies.\n •\tCandidate Can Apply Between 13/01/2023 to 28/01/2023.\n •\tCandidate Read the Notification Before Apply the Recruitment Application Form in Indian Navy Executive Sports & Law June 2023 Course Recruitment 2023..\n•\tKindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\n•\tKindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\nBefore Submit the Application Form Must Check the Preview and All Columns Carefully.\nNo Application Fees in Indian Navy Recruitment But. Candidate Must Final Submit the Form.\nTake A Print Out of Final Submitted Form",
+      "job_application_start_date": "19/01/2023",
+      "job_application_last_date": "19/01/2023",
+      "job_eligibility_by_education": ["b.tech,b.e"],
+      "job_eligibility_by_gender": ["male","female"],
+      "job_eligibility_by_cast": ["obc","sc"],
+      "job_eligibility_by_age": {
+        "min": 18,
+        "max": 32
+      },
+      "job_registration_link": "https://google.com",
+      "job_notification_link": "https://google.com"
+
+
+    },
+    {
+      "job_id": "airforce",
+      "job_category_type": "filling application",
+      "job_main_category": ["trending","defence","central"],
+      "job_type": "airforce1",
+      "job_name": "airforce demo ",
+      "job_description": "&#x2022\tJoin Indian Navy Are Released for Executive Sports & Law Branch Entry Recruitment Indian Navy Vacancies.\n •\tCandidate Can Apply Between 13/01/2023 to 28/01/2023.\n •\tCandidate Read the Notification Before Apply the Recruitment Application Form in Indian Navy Executive Sports & Law June 2023 Course Recruitment 2023..\n•\tKindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\n•\tKindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\nBefore Submit the Application Form Must Check the Preview and All Columns Carefully.\nNo Application Fees in Indian Navy Recruitment But. Candidate Must Final Submit the Form.\nTake A Print Out of Final Submitted Form",
+      "job_application_start_date": "19/01/2023",
+      "job_application_last_date": "19/01/2023",
+      "job_eligibility_by_education": ["b.tech,b.e"],
+      "job_eligibility_by_gender": ["male","female"],
+      "job_eligibility_by_cast": ["obc","sc"],
+      "job_eligibility_by_age": {
+        "min": 18,
+        "max": 32
+      },
+      "job_registration_link": "https://google.com",
+      "job_notification_link": "https://google.com"
+
+
+    },
+    {
+      "job_id": "railway_Alp",
+      "job_category_type": "filling application",
+      "job_main_category": ["trending","defence","central"],
+      "job_type": "railway group Alp",
+      "job_name": "Railway Group Alp",
+      "job_description": "&#x2022\tJoin Indian Navy Are Released for Executive Sports & Law Branch Entry Recruitment Indian Navy Vacancies.\n •\tCandidate Can Apply Between 13/01/2023 to 28/01/2023.\n •\tCandidate Read the Notification Before Apply the Recruitment Application Form in Indian Navy Executive Sports & Law June 2023 Course Recruitment 2023..\n•\tKindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\n•\tKindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\nBefore Submit the Application Form Must Check the Preview and All Columns Carefully.\nNo Application Fees in Indian Navy Recruitment But. Candidate Must Final Submit the Form.\nTake A Print Out of Final Submitted Form",
+      "job_application_start_date": "19/01/2023",
+      "job_application_last_date": "19/01/2023",
+      "job_eligibility_by_education": ["b.tech,b.e"],
+      "job_eligibility_by_gender": ["male","female"],
+      "job_eligibility_by_cast": ["obc","sc"],
+      "job_eligibility_by_age": {
+        "min": 18,
+        "max": 32
+      },
+      "job_registration_link": "https://google.com",
+      "job_notification_link": "https://google.com"
+
+
+    },
+    {
+      "job_id": "railway_Clerk",
+      "job_category_type": "filling application",
+      "job_main_category": ["trending","defence","central"],
+      "job_type": "railway group clerk",
+      "job_name": "Railway Group clerk",
+      "job_description": "&#x2022\tJoin Indian Navy Are Released for Executive Sports & Law Branch Entry Recruitment Indian Navy Vacancies.\n •\tCandidate Can Apply Between 13/01/2023 to 28/01/2023.\n •\tCandidate Read the Notification Before Apply the Recruitment Application Form in Indian Navy Executive Sports & Law June 2023 Course Recruitment 2023..\n•\tKindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\n•\tKindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\nBefore Submit the Application Form Must Check the Preview and All Columns Carefully.\nNo Application Fees in Indian Navy Recruitment But. Candidate Must Final Submit the Form.\nTake A Print Out of Final Submitted Form",
+      "job_application_start_date": "19/01/2023",
+      "job_application_last_date": "19/01/2023",
+      "job_eligibility_by_education": ["b.tech,b.e"],
+      "job_eligibility_by_gender": ["male","female"],
+      "job_eligibility_by_cast": ["obc","sc"],
+      "job_eligibility_by_age": {
+        "min": 18,
+        "max": 32
+      },
+      "job_registration_link": "https://google.com",
+      "job_notification_link": "https://google.com"
+
+
+    }
+  ]
+
+
+}

@@ -1,26 +1,50 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useEffect, useState} from 'react';
 import './App.css';
 
+import {createBrowserRouter, Route, RouterProvider, Routes, useNavigate} from "react-router-dom";
+import * as fs from 'fs';
+import latestJob from './util/latest_job.json';
+import {GetDetails} from "./pages/get_details_page/GetDetails";
+import {HomePage} from "./pages/home_page/HomePage";
+
+import {BrowserRouter as Router} from 'react-router-dom';
+
+
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+useEffect(()=>{
+
+})
+
+
+
+
+
+    const router = createBrowserRouter([
+        {
+            path: "/",
+            element:<HomePage/>,
+        },
+        {
+            path:"/demo",
+
+            element:<GetDetails/>
+        }
+    ]);
+    return (
+        <>
+            {/*<Router>*/}
+
+            {/*    <Routes>*/}
+            {/*        <Route path="/demo" element={<GetDetails />} />*/}
+            {/*        <Route path="/" element={<HomePage/> } />*/}
+
+            {/*    </Routes>*/}
+            {/*</Router>*/}
+            <RouterProvider router={router} />
+        </>
+    );
 }
 
 export default App;
+
